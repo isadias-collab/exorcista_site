@@ -118,5 +118,5 @@ O site foi pensado como uma **experiência narrativa**:
 ---
 
 ## ✨ Autor
-
+# Isabella Dias da Silva
 Projeto desenvolvido para prática de **HTML, CSS e JavaScript**, com foco em criar uma **experiência interativa inspirada em histórias de possessão e arquivos religiosos secretos**.
