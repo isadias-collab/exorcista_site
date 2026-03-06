@@ -19,9 +19,9 @@ O projeto explora:
 ---
 
 ## 📁 Estrutura do Projeto
-├── index.html
-├── style.css
-└── script.js
+├── index.html <br>
+├── style.css <br>
+└── script.js <br>
 
 
 ---
