@@ -1,0 +1,77 @@
+body {
+    background: radial-gradient(circle at top, #111 0%, #000 80%);
+    color: #d6d6d6;
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+    transition: 3s;
+}
+
+h1, h2 {
+    font-weight: normal;
+    letter-spacing: 4px;
+}
+
+.linha {
+    width: 200px;
+    height: 1px;
+    background: #444;
+    margin: 20px auto;
+}
+
+.selo {
+    font-size: 40px;
+    margin-bottom: 20px;
+    opacity: 0.7;
+}
+
+button {
+    background: transparent;
+    border: 1px solid #555;
+    color: #ccc;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #111;
+}
+
+section {
+    margin: 60px auto;
+    max-width: 700px;
+}
+
+.diario-box {
+    border: 1px solid #333;
+    padding: 20px;
+    background-color: rgba(255,255,255,0.03);
+    text-align: left;
+}
+
+.oculto {
+    display: none;
+}
+
+.possuido {
+    background: black;
+    color: #b31c1c;
+    font-family: "Courier New", monospace;
+}
+
+.possessa {
+    color: #b31c1c;
+    animation: tremor 0.2s infinite alternate;
+}
+
+@keyframes tremor {
+    from { transform: translateX(-1px); }
+    to { transform: translateX(1px); }
+}
+
+footer {
+    margin-top: 100px;
+    font-size: 12px;
+    opacity: 0.6;
+}
